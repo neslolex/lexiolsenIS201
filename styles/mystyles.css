@@ -1,0 +1,38 @@
+/* this will be applied to the about me and index pages*/
+
+
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+li{
+    padding-bottom: 10px;
+}
+
+    
+.custom1{
+        background-color: tan;
+}
+
+
+.intro{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.paddingSpace{
+    padding-bottom: 30px;
+}
+
+.custom2{
+    text-decoration: underline;
+}
+
+.contact{
+    font-size: smaller;
+}
+
+.intrests{
+    padding-bottom: 75px;
+}

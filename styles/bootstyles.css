@@ -1,0 +1,55 @@
+/* this will be applied to the tableau page*/
+
+
+/*header*/
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+body{
+    background-color:gainsboro
+    
+}
+
+.headCenter{
+        text-align: center;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+
+/*mainbody */
+.TabLeft{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.TabCap{
+    text-decoration: underline;
+    color: cadetblue;
+}
+
+.Dashboard{
+    /* resize: horizontal;
+    resize: vertical; */
+    /* for some reason the resize function wasn't working*/ 
+    height: 70%;
+    width: auto;
+
+}
+
+
+
+/*footer*/
+.footer{
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    font-size: 10px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
